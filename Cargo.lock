@@ -1484,7 +1484,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-actix-svelte"
+name = "rust-actix-vue"
 version = "0.1.0"
 dependencies = [
  "actix",

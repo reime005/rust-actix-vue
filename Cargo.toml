@@ -1,5 +1,5 @@
 [package]
-name = "rust-actix-svelte"
+name = "rust-actix-vue"
 version = "0.1.0"
 authors = ["Marius Reimer <reime005@gmail.com>"]
 edition = "2018"
